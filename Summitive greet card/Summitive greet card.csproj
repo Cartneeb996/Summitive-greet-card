@@ -85,5 +85,11 @@
   <ItemGroup>
     <None Include="Resources\gemini-3-consolation.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
